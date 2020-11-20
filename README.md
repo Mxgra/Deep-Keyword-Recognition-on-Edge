@@ -12,11 +12,11 @@ I understand Edge as hardware with limited resources, like microcontrollers. A R
 
 ## Why is it interesting for Speech?
 
-Alexa, Siri, Cortana. Speech Assistants have already arrived and more importantly are accepted in every-day life for many of us. One big concern lies in privacy: because speech is such a complex concept, the required processing power to effectivly answer queries is quite big. The actual processing is done in the cloud. The only thing that is recognized on-device are the so called wakewords, like "Hey Siri". These wakewords, or keywords, must be recognized confidently even in noisy environments, while the responsible software has very limited resources. Applications areas are not only as a gateway to more potent cloud implementations, but can lie pretty much everywhere where quick interactions with software is necessary, but physical interaction is impossible: in a surgery room, or nursing homes as interface to vital monitoring equipment, in cars or smart-homes.
+Alexa, Siri, Cortana. Speech Assistants have already arrived and more importantly are accepted in every-day life for many of us. One big concern lies in privacy: because speech is such a complex concept, the required processing power to effectivly answer queries is quite big. The actual processing is done in the cloud. The only thing that is recognized on-device are the so called wakewords, like "Hey Siri". These wakewords, or keywords, must be recognized confidently even in noisy environments, while the responsible software has very limited resources. Application areas are not only as a gateway to more potent cloud implementations, but can lie pretty much everywhere where quick interactions with software is necessary, but physical interaction is impossible: in a surgery room, or nursing homes as interface to vital monitoring equipment, in cars or smart-homes.
 
 ### Challenge and Real Life Applicability
 
-Machine Learning is steadily becoming easier as frameworks like tensorflow and pytorch refine their functionality. For a challenge, I wanted to give this project a little spin and see how converted models behave. The Deployment and applicability to real life problems is another aspect that often poses problems, looking into a concrete usecase seems to be a good way to get some experience.
+Machine Learning is steadily becoming easier as frameworks like tensorflow and pytorch refine their functionality. For a challenge, I wanted to give this project a little spin and see how converted models behave. Deployment and applicability to real life problems is another aspect that often poses problems, looking into a concrete usecase seems to be a good way to get some experience.
 
 
 # Timeline
