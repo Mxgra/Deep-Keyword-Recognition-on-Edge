@@ -21,5 +21,6 @@ Machine Learning is steadily becoming easier as frameworks like tensorflow and p
 
 # Timeline
 
-Start: 18.11.2020: Training, conversion and testing. A Notebook that focuses solely on the data and model.
+18.11.2020: Training, conversion and testing. A Notebook that focuses solely on the data and model.
+24.11.2020: Improved descriptions.
  
